@@ -1,0 +1,22 @@
+{
+  "name": "test-discord-bot",
+  "version": "1.0.0",
+  "description": "Test-Discord-Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vertex101/Test-Discord-Bot.git"
+  },
+  "author": "Vertex101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vertex101/Test-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/vertex101/Test-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
